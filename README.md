@@ -2,6 +2,11 @@
 
 _In collaboration with Rushya Puttam (@rushyaP)_.
 
+
+The aim is to build a movie recommendation system by taking user ratings for nearly 100,000 movies
+and make recommendations for movies that a user has not watched, based on the user's rating of other 
+movies, and how similar users rate the movie being recommended.
+
 This project in this repository uses the latent factor models approach to devise a movie recommendation system in Python.
 
 While methods like collaborative fitlering have proved very useful in building recommender systems, predictions
